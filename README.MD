@@ -35,16 +35,6 @@ print(graph.nodes_zargs[0].text)
 ## Contributing
 If you would like to contribute to the project, please open an issue or a pull request. We are happy to receive any feedback or suggestions.
 
-## Citation
-If you use the dataset or the code in your research, please cite the following paper:
-```
-@inproceedings{adea,
-  title={ADEA: An Argumentative Dialog Dataset on Ethical Issues concerning Future A.I. Applications},
-  author={Author1, Author2, Author3},
-  booktitle={Proceedings of the 2024 LREC-COLING},
-  year={2024}
-}
-```
 
 
 ## License
