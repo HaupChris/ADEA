@@ -29,7 +29,7 @@ from src.argument_graph import ArgumentGraph
 # Load the argument graph
 graph = ArgumentGraph("argument_graphs/medai/")
 # Print texts of the one node of well-founded arguments
-print(graph.nodes_zargs[0].text)
+print(graph.nodes_zargs[0].full_text)
 ```
 
 ## Contributing

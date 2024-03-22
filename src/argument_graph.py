@@ -432,4 +432,4 @@ class ArgumentGraph:
 
 if __name__ == "__main__":
     argument_graph = ArgumentGraph.from_csv_files("../argument_graphs/medai")
-    print("done")
+    print(argument_graph.group_nodes[0].full_text)
