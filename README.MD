@@ -1,6 +1,6 @@
 # ADEA: An Argumentative Dialog Dataset on Ethical Issues concerning Future A.I. Applications
 ## Overview
-This repository contains the data and code for the paper "ADEA: An Argumentative Dialog Dataset on Ethical Issues concerning Future A.I. Applications" accepted at the 2024 LREC-COLING.
+This repository contains the data and code for the paper [ADEA: An Argumentative Dialog Dataset on Ethical Issues concerning Future A.I. Application](https://aclanthology.org/2024.lrec-main.38/) accepted at the 2024 LREC-COLING.
 
 # Structure
 The repository is organized into three main folders:
@@ -36,6 +36,18 @@ print(graph.nodes_zargs[0].full_text)
 If you would like to contribute to the project, please open an issue or a pull request. We are happy to receive any feedback or suggestions.
 
 
+## Referencing
+If you use this project inyour research or wish to refer to the baseline results, please use the following citation: 
+
+```
+@inproceedings{hauptmann2024adea,
+  title={ADEA: An Argumentative Dialogue Dataset on Ethical Issues Concerning Future AI Applications},
+  author={Hauptmann, Christian and Krenzer, Adrian and Krause, Antonia and Puppe, Frank},
+  booktitle={Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024)},
+  pages={426--437},
+  year={2024}
+}
+```
 
 ## License
 
